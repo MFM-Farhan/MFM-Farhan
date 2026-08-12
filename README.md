@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Farhan 👋
+# Mohamed Farhan
 
 ### Cybersecurity Engineer | SOC | VAPT | DFIR | Security Research
 
